@@ -3,3 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 2022/09/23 18:35:00:00
 LYJ.joker.W
+The King of power.
